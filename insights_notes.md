@@ -1,0 +1,1 @@
+1. Next js is installed only for this project. . Mental model---> each project= its own environment
