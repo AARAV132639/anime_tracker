@@ -21,3 +21,8 @@ A full-stack web app to track anime with notes.
    MONGODB_URI=your_connection_string
 4. Run:
    npm run dev
+
+## To-do
+1. Add authentication
+2. Make it multi user app
+3. Enhance more
